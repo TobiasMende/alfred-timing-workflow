@@ -6,7 +6,7 @@ This workflow is designed to interact with [Timing](https://timingapp.com) for e
 
 ## Triggers
 - **Keywords:** You can trigger the app via Keyword. Defaults: `tn` as the general entry point to this workflow and `tstart` to start a new timer.
-- **Hotkeys:** Use ⌃+⌥+⌘+T to toggle the timer (start if stopped, stop if started).
+- **Hotkeys:** Use ⌃+⌥+⌘+T to toggle the timer (start if stopped, stop if started). Use ⇧+⌥+⌘+T to show project activities.
 
 ## Modifiers
 When starting a new timer:
