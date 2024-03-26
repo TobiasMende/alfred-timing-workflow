@@ -73,6 +73,32 @@
 				<false/>
 			</dict>
 		</array>
+		<key>3B6A1012-93DD-42A5-B488-5D05C8543ADF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>57DE1310-FE63-4493-BBDC-89E6FEB85884</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>457DD5AA-83A3-42BC-A508-0E9A00D92659</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>64506C4D-CADB-419C-B40A-E88044DB3266</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>4DD929BD-7489-4560-BCE8-8B1C9BD4B4DC</key>
 		<array>
 			<dict>
@@ -127,6 +153,58 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>B6788961-49F9-4135-94A0-D25130666268</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>64506C4D-CADB-419C-B40A-E88044DB3266</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C5344639-9EF1-4C41-B737-5E9CDF6437B3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6D84D5E5-0B72-4440-B315-F7FCE8BC533F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7C794E01-6732-4B4B-8949-8A24FF0AFBCD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>793632D5-CD5E-40EE-B511-EB0282C88B3A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>457DD5AA-83A3-42BC-A508-0E9A00D92659</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7C794E01-6732-4B4B-8949-8A24FF0AFBCD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C5344639-9EF1-4C41-B737-5E9CDF6437B3</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -273,6 +351,30 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>7C794E01-6732-4B4B-8949-8A24FF0AFBCD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>BF1C40BC-27B7-40AF-9A87-528DB811AFFE</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>457DD5AA-83A3-42BC-A508-0E9A00D92659</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>1ED96EBA-F1BC-4ACB-BF24-A019FF868F81</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
 		<key>AEC7BDCD-02A6-494D-94A7-E470C695FD23</key>
 		<array>
@@ -344,6 +446,32 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>4DD929BD-7489-4560-BCE8-8B1C9BD4B4DC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E699AFB9-3A70-4FA2-93B7-9DC004B02C3A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FFFA52A6-AC3E-4622-BF1F-ADCE88AEAE26</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F01A6422-A5C8-475C-9749-BC291EB6B5A7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>457DD5AA-83A3-42BC-A508-0E9A00D92659</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -436,26 +564,6 @@
 				<false/>
 				<key>variables</key>
 				<dict>
-					<key>note</key>
-					<string>{query}</string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>0B10CBA8-3843-4396-8C93-AD9DDF658A3A</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string></string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict>
 					<key>title</key>
 					<string>{query}</string>
 				</dict>
@@ -484,6 +592,26 @@
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
 			<string>2930EE32-F6C2-4DDD-918B-F507A8E89F88</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>note</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>0B10CBA8-3843-4396-8C93-AD9DDF658A3A</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -539,63 +667,6 @@
 			<string>DCB5F7B9-F37E-4B2C-970C-046B0944B80A</string>
 			<key>version</key>
 			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string>{var:title} ({var:note})</string>
-				<key>title</key>
-				<string>Timer started: {query}</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>4CDD4649-0BFE-4CC2-BF1C-E832276E77CD</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>function run(argv) {
-  ObjC.import('stdlib')
-  const projectId = $.getenv('projectId');
-  const withTitle = $.getenv('title') || '';
-  const notes = $.getenv('note') || '';
-
-  const Timing = Application('TimingHelper');
-  const project = Timing.projects.byId(projectId)
-  const startObject = {withTitle, notes, project};
-  console.log(JSON.stringify(startObject))
-
-  Timing.startTimer(startObject)
-  return project.nameChain()
-}</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>7</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>4DD929BD-7489-4560-BCE8-8B1C9BD4B4DC</string>
-			<key>version</key>
-			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -657,19 +728,59 @@ return JSON.stringify(response);
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argument</key>
-				<string></string>
-				<key>passthroughargument</key>
+				<key>lastpathcomponent</key>
 				<false/>
-				<key>variables</key>
-				<dict/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{var:title} ({var:note})</string>
+				<key>title</key>
+				<string>Timer started: {query}</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
+			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
-			<string>F0EE1CD1-1AE2-4A18-B9EA-4D7AF55BDCEB</string>
+			<string>4CDD4649-0BFE-4CC2-BF1C-E832276E77CD</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>function run(argv) {
+  ObjC.import('stdlib')
+  const projectId = $.getenv('projectId');
+  const withTitle = $.getenv('title') || '';
+  const notes = $.getenv('note') || '';
+
+  const Timing = Application('TimingHelper');
+  const project = Timing.projects.byId(projectId)
+  const startObject = {withTitle, notes, project};
+  console.log(JSON.stringify(startObject))
+
+  Timing.startTimer(startObject)
+  return project.nameChain()
+}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>7</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4DD929BD-7489-4560-BCE8-8B1C9BD4B4DC</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -700,6 +811,23 @@ return JSON.stringify(response);
 			<dict>
 				<key>argument</key>
 				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>F0EE1CD1-1AE2-4A18-B9EA-4D7AF55BDCEB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>triggerid</key>
@@ -713,27 +841,6 @@ return JSON.stringify(response);
 			<string>alfred.workflow.trigger.remote</string>
 			<key>uid</key>
 			<string>34B05580-01E9-4F42-8089-38B01C23BFBB</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string></string>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>triggerid</key>
-				<string>toggle</string>
-				<key>triggername</key>
-				<string>Toggle Timer</string>
-				<key>workflowonly</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.remote</string>
-			<key>uid</key>
-			<string>20719426-3A27-4B98-9B79-278AA7A6991E</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -755,6 +862,27 @@ return JSON.stringify(response);
 			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
 			<string>BC4B1F44-3702-4D9C-B62F-0492B41325BE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>toggle</string>
+				<key>triggername</key>
+				<string>Toggle Timer</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>20719426-3A27-4B98-9B79-278AA7A6991E</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -783,26 +911,6 @@ return JSON.stringify(response);
 			<string>B6788961-49F9-4135-94A0-D25130666268</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string></string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict>
-					<key>toggleMode</key>
-					<string>true</string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>59BF8DA3-7B51-4A54-8D1D-4FE6C803F40F</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -847,6 +955,26 @@ return JSON.stringify(response);
 			<string>alfred.workflow.utility.conditional</string>
 			<key>uid</key>
 			<string>8EB4E2AE-0434-408E-A2A1-413A0D1460A2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>toggleMode</key>
+					<string>true</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>59BF8DA3-7B51-4A54-8D1D-4FE6C803F40F</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -925,6 +1053,34 @@ return JSON.stringify(response);
 						<key>uid</key>
 						<string>45E7177A-FF83-41FB-B1EE-38F4ECD2F8C4</string>
 					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>dashboard</string>
+						<key>outputlabel</key>
+						<string>dashboard</string>
+						<key>uid</key>
+						<string>BF1C40BC-27B7-40AF-9A87-528DB811AFFE</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>project</string>
+						<key>outputlabel</key>
+						<string>project</string>
+						<key>uid</key>
+						<string>1ED96EBA-F1BC-4ACB-BF24-A019FF868F81</string>
+					</dict>
 				</array>
 				<key>elselabel</key>
 				<string>else</string>
@@ -935,37 +1091,6 @@ return JSON.stringify(response);
 			<string>alfred.workflow.utility.conditional</string>
 			<key>uid</key>
 			<string>ABCEFB9D-0614-4F36-889E-7B8291E4A8C5</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttrimmode</key>
-				<integer>0</integer>
-				<key>argumenttype</key>
-				<integer>1</integer>
-				<key>fixedorder</key>
-				<false/>
-				<key>items</key>
-				<string>[{"title":"Start New Timer","arg":"start"},{"title":"Stop Current Timer","arg":"stop"},{"title":"Toggle Timer","arg":"toggle"},{"title":"Pause Tracking","arg":"pause"},{"title":"Resume Tracking","arg":"resume","subtitle":""}]</string>
-				<key>keyword</key>
-				<string>{var:controlTimingKeyword}</string>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>runningsubtext</key>
-				<string></string>
-				<key>subtext</key>
-				<string></string>
-				<key>title</key>
-				<string>Control Timing</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.listfilter</string>
-			<key>uid</key>
-			<string>C6E96020-27CB-42CB-8F59-ACE70C29C7D9</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1013,27 +1138,6 @@ return JSON.stringify(response);
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string></string>
-				<key>title</key>
-				<string>Tracking paused.</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>2C4A23FE-7751-4420-B098-6BC1AB8A7497</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -1056,6 +1160,79 @@ return JSON.stringify(response);
 			<string>57DE1310-FE63-4493-BBDC-89E6FEB85884</string>
 			<key>version</key>
 			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string>Tracking paused.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>2C4A23FE-7751-4420-B098-6BC1AB8A7497</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>fixedorder</key>
+				<false/>
+				<key>items</key>
+				<string>[{"title":"Start New Timer","arg":"start"},{"title":"Stop Current Timer","arg":"stop"},{"title":"Toggle Timer","arg":"toggle"},{"title":"Pause Tracking","arg":"pause"},{"title":"Resume Tracking","arg":"resume","subtitle":""},{"title":"Show Dashboard","arg":"dashboard","subtitle":"Show All Activities"},{"title":"Show Project","arg":"project","subtitle":"Show Project Activities"}]</string>
+				<key>keyword</key>
+				<string>{var:controlTimingKeyword}</string>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Control Timing</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>C6E96020-27CB-42CB-8F59-ACE70C29C7D9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>pause</string>
+				<key>triggername</key>
+				<string>Pause Tracking</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>3B6A1012-93DD-42A5-B488-5D05C8543ADF</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1101,6 +1278,210 @@ return JSON.stringify(response);
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>FFFA52A6-AC3E-4622-BF1F-ADCE88AEAE26</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>resume</string>
+				<key>triggername</key>
+				<string>Resume Tracking</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>E699AFB9-3A70-4FA2-93B7-9DC004B02C3A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>7C794E01-6732-4B4B-8949-8A24FF0AFBCD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>dashboard</string>
+				<key>triggername</key>
+				<string>Show Dashboard</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>6D84D5E5-0B72-4440-B315-F7FCE8BC533F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<true/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>3</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>function run(argv) {
+const Timing = Application('TimingHelper');
+const activeProjects = Timing.projects().filter(p =&gt; !p.isArchived()).map(p =&gt; ({"uid": p.id(), "arg": p.id(), "title": p.nameChain(), "subtitle": `Show activities for '${p.nameChain()}'` }))
+
+var response = {"items": activeProjects};
+
+return JSON.stringify(response);
+
+}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Select a Project</string>
+				<key>type</key>
+				<integer>7</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>64506C4D-CADB-419C-B40A-E88044DB3266</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>skipqueryencode</key>
+				<false/>
+				<key>skipvarencode</key>
+				<false/>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>timing2://selectProjects/{query}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>C5344639-9EF1-4C41-B737-5E9CDF6437B3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>triggerid</key>
+				<string>project</string>
+				<key>triggername</key>
+				<string>Show Project Activities</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>F01A6422-A5C8-475C-9749-BC291EB6B5A7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>457DD5AA-83A3-42BC-A508-0E9A00D92659</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>17</integer>
+				<key>hotmod</key>
+				<integer>1703936</integer>
+				<key>hotstring</key>
+				<string>T</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>793632D5-CD5E-40EE-B511-EB0282C88B3A</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -1163,6 +1544,20 @@ This workflow needs [Timing](https://timingapp.com) with a license that allows u
 			<key>ypos</key>
 			<real>165</real>
 		</dict>
+		<key>3B6A1012-93DD-42A5-B488-5D05C8543ADF</key>
+		<dict>
+			<key>xpos</key>
+			<real>35</real>
+			<key>ypos</key>
+			<real>620</real>
+		</dict>
+		<key>457DD5AA-83A3-42BC-A508-0E9A00D92659</key>
+		<dict>
+			<key>xpos</key>
+			<real>710</real>
+			<key>ypos</key>
+			<real>995</real>
+		</dict>
 		<key>4CDD4649-0BFE-4CC2-BF1C-E832276E77CD</key>
 		<dict>
 			<key>xpos</key>
@@ -1198,6 +1593,34 @@ This workflow needs [Timing](https://timingapp.com) with a license that allows u
 			<key>ypos</key>
 			<real>430</real>
 		</dict>
+		<key>64506C4D-CADB-419C-B40A-E88044DB3266</key>
+		<dict>
+			<key>xpos</key>
+			<real>965</real>
+			<key>ypos</key>
+			<real>965</real>
+		</dict>
+		<key>6D84D5E5-0B72-4440-B315-F7FCE8BC533F</key>
+		<dict>
+			<key>xpos</key>
+			<real>35</real>
+			<key>ypos</key>
+			<real>845</real>
+		</dict>
+		<key>793632D5-CD5E-40EE-B511-EB0282C88B3A</key>
+		<dict>
+			<key>xpos</key>
+			<real>35</real>
+			<key>ypos</key>
+			<real>1075</real>
+		</dict>
+		<key>7C794E01-6732-4B4B-8949-8A24FF0AFBCD</key>
+		<dict>
+			<key>xpos</key>
+			<real>720</real>
+			<key>ypos</key>
+			<real>825</real>
+		</dict>
 		<key>8EB4E2AE-0434-408E-A2A1-413A0D1460A2</key>
 		<dict>
 			<key>xpos</key>
@@ -1231,7 +1654,7 @@ This workflow needs [Timing](https://timingapp.com) with a license that allows u
 			<key>xpos</key>
 			<real>550</real>
 			<key>ypos</key>
-			<real>440</real>
+			<real>490</real>
 		</dict>
 		<key>AEC7BDCD-02A6-494D-94A7-E470C695FD23</key>
 		<dict>
@@ -1261,12 +1684,19 @@ This workflow needs [Timing](https://timingapp.com) with a license that allows u
 			<key>ypos</key>
 			<real>395</real>
 		</dict>
+		<key>C5344639-9EF1-4C41-B737-5E9CDF6437B3</key>
+		<dict>
+			<key>xpos</key>
+			<real>1170</real>
+			<key>ypos</key>
+			<real>965</real>
+		</dict>
 		<key>C6E96020-27CB-42CB-8F59-ACE70C29C7D9</key>
 		<dict>
 			<key>xpos</key>
-			<real>350</real>
+			<real>330</real>
 			<key>ypos</key>
-			<real>465</real>
+			<real>560</real>
 		</dict>
 		<key>D78CE043-74DF-44D6-873D-9BDCA1203C75</key>
 		<dict>
@@ -1282,12 +1712,26 @@ This workflow needs [Timing](https://timingapp.com) with a license that allows u
 			<key>ypos</key>
 			<real>170</real>
 		</dict>
+		<key>E699AFB9-3A70-4FA2-93B7-9DC004B02C3A</key>
+		<dict>
+			<key>xpos</key>
+			<real>35</real>
+			<key>ypos</key>
+			<real>730</real>
+		</dict>
 		<key>E78371B7-D9B1-44F3-B9A4-6FFA2368A8A2</key>
 		<dict>
 			<key>xpos</key>
 			<real>1255</real>
 			<key>ypos</key>
 			<real>645</real>
+		</dict>
+		<key>F01A6422-A5C8-475C-9749-BC291EB6B5A7</key>
+		<dict>
+			<key>xpos</key>
+			<real>35</real>
+			<key>ypos</key>
+			<real>965</real>
 		</dict>
 		<key>F0EE1CD1-1AE2-4A18-B9EA-4D7AF55BDCEB</key>
 		<dict>
@@ -1350,7 +1794,7 @@ This workflow needs [Timing](https://timingapp.com) with a license that allows u
 		</dict>
 	</array>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>1.1.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/TobiasMende/alfred-timing-workflow</string>
 </dict>
